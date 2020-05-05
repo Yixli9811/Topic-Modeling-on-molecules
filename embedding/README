@@ -1,0 +1,4 @@
+To use script to download the properties of molecuels, we need to use openchemlib pakckage 
+from here: https://github.com/cheminfo/openchemlib-js
+
+To use main.py to get molcules embedding, we need to install Mol2Vec and then run the code. 
